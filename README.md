@@ -220,13 +220,9 @@
 
 <h3 align="left">ADWOKAT MATUSZEWSKI (Frontend)</h3>
 <p>
-	<a href="https://r-booking-project.vercel.app/" target="_blank">Live demo</a>
+	<a href="https://www.adwokatmatuszewski.pl/" target="_blank">Live demo</a>
 </p>
-<p>
-	<a href="https://github.com/Rapkowsky/project-react" target="_blank"
-		>Github repo</a
-	>
-</p>
+
 <p>
 	An interactive website featuring a fully functional contact form, allowing
 	users to easily submit inquiries or messages directly to the lawyer. This
@@ -260,9 +256,7 @@
 <br />
 <h3 align="left">Movie App (Frontend)</h3>
 <p>
-	<a
-		href="https://robert-rapkowski-portfolio.vercel.app/movie-app"
-		target="_blank"
+	<a href="https://movie-app-robert-rapkowski.vercel.app" target="_blank"
 		>Live demo</a
 	>
 </p>
