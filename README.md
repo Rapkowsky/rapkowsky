@@ -254,7 +254,7 @@
 	</li>
 </ul>
 <br />
-<h3 align="left">Movie App (Frontend)</h3>
+<h3 align="left">MOVIE APP (Frontend)</h3>
 <p>
 	<a href="https://movie-app-robert-rapkowski.vercel.app" target="_blank"
 		>Live demo</a
