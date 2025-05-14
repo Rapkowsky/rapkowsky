@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert Rapkowski</h1>
-<h3 align="center">Front-end developer from 🇵🇱 Warsaw, Poland</h3>
+<h3 align="center">Front-end developer from Warsaw, Poland 🇵🇱</h3>
 <br />
 <h1 align="left">Technology & Skills</h1>
 <p>
