@@ -19,6 +19,9 @@
 		alt="React Hook Form"
 		src="https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white" />
 	<img
+		alt="React Router"
+		src="https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+	<img
 		alt="Zod"
 		src="https://img.shields.io/badge/-Zod-5A67D8?style=flat-square&logoColor=white" />
 	<img
