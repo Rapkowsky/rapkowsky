@@ -40,11 +40,11 @@
         alt="CSS"
         src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     <img
-        alt="SCSS"
-        src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-    <img
         alt="Sass"
         src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+    <img
+        alt="GSAP"
+        src="https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
     <img
         alt="REST API"
         src="https://img.shields.io/badge/-REST%20API-0096D6?style=flat-square&logo=api&logoColor=white" />
