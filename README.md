@@ -44,3 +44,62 @@
     -   &nbsp;✏️&nbsp;&nbsp; Edit existing pet details.
     -   &nbsp;📄&nbsp;&nbsp; View the list of created pets.
     -   &nbsp;🗑️&nbsp;&nbsp; Delete pets from the database.
+
+<br>
+
+## <a name="local-development"> 🖥️&nbsp;&nbsp; Local Development</a>
+
+0.  **Prerequisites** <br>
+    Make sure you have the following installed on your machine:
+
+    -   [Git](https://git-scm.com/)
+    -   [Node.js](https://nodejs.org/en) (v20+)
+    -   [npm](https://www.npmjs.com/) (Package Manager)
+
+1.  **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/Rapkowsky/zoofy.git
+    ```
+
+2.  **Navigate to the project directory:**
+
+    ```bash
+    cd zoofy
+    ```
+
+3.  **Install dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+4.  Create a new file named `.env` in the root of your project and add the following content:
+
+    ```env
+
+    DATABASE_URL=
+
+    AUTH_SECRET=
+
+    NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=
+
+    STRIPE_SECRET_KEY=
+
+    STRIPE_WEBHOOK_SECRET=
+
+    CANNONICAL_URL=
+
+    ```
+
+    Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on the respective websites
+
+5.  **Running the Project**
+
+    ```bash
+    npm run dev
+    ```
+
+    Visit &nbsp;[http://localhost:3000](http://localhost:3000)&nbsp; to access your app.
+
+<br>
