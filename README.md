@@ -7,7 +7,7 @@
 
 <p></p>
 
-<h3 align="center">
+<h3>
 	<img
 		src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"
 		width="26px"
@@ -15,12 +15,17 @@
 	Hi there
 </h3>
 
-<p align="center">
-	I am a Front-end developer from Warsaw, Poland 🇵🇱 with over 3 years of
-	commercial experience, passionate about creating modern, fast, and scalable
-	applications and websites. <br />
-	I'm also interested in fullstack development in order to fully understand how
-	applications work and to design better solutions. Check out my projects below.
+<p>
+	• I am a Front-end developer from Warsaw, Poland 🇵🇱<br />
+	• Over 3 years of commercial experience in front-end development<br />
+	• Over 10 years of overall commercial experience in the international IT
+	industry<br />
+	• Passionate about creating modern, fast, and scalable applications and
+	websites.<br />
+	• I'm also interested in fullstack development in order to fully understand
+	how applications work and to design better solutions. <br />
+	<br />
+	Check out my projects below!<br />
 </p>
 
 <p align="center">
@@ -79,17 +84,17 @@
 </p>
 
 <p>
-	DevHub is my biggest project to date - it's a full-stack application inspired by StackOverflow but
-	enhanced with AI capabilities, creating a comprehensive community-driven
-	platform where developers can ask questions, share knowledge, and accelerate
-	their professional journey. This application leverages Next.js advanced
-	rendering strategies (SSG, ISR, SSR, PPR, Server Functions, Caching, and
-	Revalidation) alongside MongoDB for data storage and NextAuth for versatile
-	authentication options including Email/Password, GitHub, and Google. With
-	sleek styling provided by TailwindCSS and ShadCN UI, DevHub offers a complete
-	ecosystem where users can post questions, provide answers, utilize AI-powered
-	responses, vote on contributions, organize content with tags, earn badges
-	through gamification elements, discover relevant job opportunities, and
+	DevHub is my biggest project to date - it's a full-stack application inspired
+	by StackOverflow but enhanced with AI capabilities, creating a comprehensive
+	community-driven platform where developers can ask questions, share knowledge,
+	and accelerate their professional journey. This application leverages Next.js
+	advanced rendering strategies (SSG, ISR, SSR, PPR, Server Functions, Caching,
+	and Revalidation) alongside MongoDB for data storage and NextAuth for
+	versatile authentication options including Email/Password, GitHub, and Google.
+	With sleek styling provided by TailwindCSS and ShadCN UI, DevHub offers a
+	complete ecosystem where users can post questions, provide answers, utilize
+	AI-powered responses, vote on contributions, organize content with tags, earn
+	badges through gamification elements, discover relevant job opportunities, and
 	explore personalized recommended topics.
 </p>
 
