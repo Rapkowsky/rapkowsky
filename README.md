@@ -87,7 +87,7 @@
 	DevHub is my biggest project to date - it's a full-stack application inspired
 	by StackOverflow but enhanced with AI capabilities, creating a comprehensive
 	community-driven platform where developers can ask questions, share knowledge,
-	and accelerate their professional journey. This application leverages Next.js
+	and accelerate their journey. This application leverages Next.js
 	advanced rendering strategies (SSG, ISR, SSR, PPR, Server Functions, Caching,
 	and Revalidation) alongside MongoDB for data storage and NextAuth for
 	versatile authentication options including Email/Password, GitHub, and Google.
