@@ -69,6 +69,52 @@
 
 <!-- --------------------- SECTION BREAK --------------------- -->
 
+## <a> 🖥️&nbsp;&nbsp; DevHub (Fullstack)</a>
+
+<br />
+
+<p>
+	<img
+		src="https://skills.syvixor.com/api/icons?i=nextjs,react,ts,reacthookform,zod,openai,mongodb,tailwind,shadcnui,motion,node,prisma,git,vercel" />
+</p>
+
+<p>
+	DevHub is my biggest project to date - it's a full-stack application inspired by StackOverflow but
+	enhanced with AI capabilities, creating a comprehensive community-driven
+	platform where developers can ask questions, share knowledge, and accelerate
+	their professional journey. This application leverages Next.js advanced
+	rendering strategies (SSG, ISR, SSR, PPR, Server Functions, Caching, and
+	Revalidation) alongside MongoDB for data storage and NextAuth for versatile
+	authentication options including Email/Password, GitHub, and Google. With
+	sleek styling provided by TailwindCSS and ShadCN UI, DevHub offers a complete
+	ecosystem where users can post questions, provide answers, utilize AI-powered
+	responses, vote on contributions, organize content with tags, earn badges
+	through gamification elements, discover relevant job opportunities, and
+	explore personalized recommended topics.
+</p>
+
+<p>
+	<a href="https://devhub-prod.vercel.app" target="_blank"
+		>Live demo - see it in action</a
+	>
+</p>
+
+<p>
+	<a href="https://github.com/Rapkowsky/dev-hub" target="_blank"
+		>Github repo - see more details</a
+	>
+</p>
+
+<br />
+
+<p>
+	<img width="50%" src="./devhub-bg-git.png" />
+</p>
+
+<br />
+
+<!-- --------------------- SECTION BREAK --------------------- -->
+
 ## <a> 🖥️&nbsp;&nbsp; Zoofy (Fullstack)</a>
 
 <br />
