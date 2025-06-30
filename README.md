@@ -91,7 +91,19 @@
 
 <!-- --------------------- SECTION BREAK --------------------- -->
 
-<h3 align="left">R-BOOKING (Frontend)</h3>
+## <a> 🖥️&nbsp;&nbsp; R-Booking (Frontend)</a>
+
+<br />
+
+<p>
+    <img
+        src="https://skills.syvixor.com/api/icons?i=react,ts,reacthookform,zod,tailwind,shadcnui,git,vercel" />
+</p>
+
+<p>
+  R-Booking is a web application for browsing and managing rental property listings, similar to platforms like Booking.com or Airbnb. The app allows users to browse and filter properties, view detailed listings with galleries and location info, add favorites, securely authenticate with JWT, read and leave reviews with star ratings, and create new rental listings with form validation.
+</p>
+
 <p>
     <a href="https://r-booking-project.vercel.app/" target="_blank"
         >Live demo - see it in action</a
@@ -102,56 +114,11 @@
         >Github repo - see more details</a
     >
 </p>
+
 <p>
-    R-Booking is a web application for browsing and managing rental property
-    listings, similar to platforms like Booking.com or Airbnb.
-</p>
-<h4>Used technologies</h4>
-<p>
-    <img
-        alt="React"
-        src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    <img
-        alt="Tailwind"
-        src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    <img
-        alt="React Hook Form"
-        src="https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white" />
-    <img
-        alt="Zod"
-        src="https://img.shields.io/badge/-Zod-5A67D8?style=flat-square&logoColor=white" />
-    <img
-        alt="Shadcn"
-        src="https://img.shields.io/badge/-Shadcn-000000?style=flat-square&logo=shadcn&logoColor=white" />
+    <img width="50%" src="./rBooking.png" />
 </p>
 
-<h4>Core features</h4>
-<ul>
-    <li>
-        Browse Listings: Users can explore available rental properties on the
-        homepage.
-    </li>
-    <li>
-        Filter Listings: Offers can be filtered by name, date, and number of
-        guests.
-    </li>
-    <li>
-        Listing Details: Clicking on a listing opens a detailed view, including
-        a photo gallery, description, location, price, and guest capacity.
-    </li>
-    <li>
-        Manage Favorites: Users can add listings to their favorites and view
-        them in a dedicated section.
-    </li>
-    <li>
-        User Authentication: Login system with form validation and JWT handling.
-    </li>
-    <li>Review System: Users can browse property reviews with star ratings.</li>
-    <li>
-        Create Listings: Form that allows users to add new rental properties
-        with data validation.
-    </li>
-</ul>
 <br />
 
 <h3 align="left">ADWOKAT MATUSZEWSKI (Frontend)</h3>
