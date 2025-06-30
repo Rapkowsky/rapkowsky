@@ -95,7 +95,7 @@
 	complete ecosystem where users can post questions, provide answers, utilize
 	AI-powered responses, vote on contributions, organize content with tags, earn
 	badges through gamification elements, discover relevant job opportunities, and
-	explore personalized recommended topics.
+	explore recommended topics.
 </p>
 
 <p>
