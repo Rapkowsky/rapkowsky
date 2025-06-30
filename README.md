@@ -15,12 +15,27 @@
 	Hi there
 </h3>
 
-<p>
+<p align="center">
 	I am a Front-end developer from Warsaw, Poland 🇵🇱 with over 3 years of
 	commercial experience, passionate about creating modern, fast, and scalable
 	applications and websites. <br />
 	I'm also interested in fullstack development in order to fully understand how
 	applications work and to design better solutions. Check out my projects below.
+</p>
+
+<p align="center">
+	<a
+		href="https://www.linkedin.com/in/robert-rapkowski/?locale=en_US"
+		target="_blank"
+		><img
+			alt="LinkedIn"
+			src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+	/></a>
+	<a href="https://github.com/Rapkowsky" target="_blank"
+		><img
+			alt="Github"
+			src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
+	/></a>
 </p>
 
 <br />
@@ -34,7 +49,7 @@
 <h3 align="left">PORTFOLIO WEBSITE</h3>
 
 <p>
-	<a href="https://robert-rapkowski-portfolio.vercel.app/" target="_blank"
+	<a href="https://robert-rapkowski-portfolio.vercel.app" target="_blank"
 		>Visit my Portfolio</a
 	>
 </p>
@@ -111,15 +126,17 @@
 </p>
 
 <p>
-	<a href="https://r-booking-project.vercel.app/" target="_blank"
+	<a href="https://r-booking-project.vercel.app" target="_blank"
 		>Live demo - see it in action</a
 	>
 </p>
 <p>
-	<a href="https://github.com/Rapkowsky/project-react" target="_blank"
+	<a href="https://github.com/Rapkowsky/r-booking" target="_blank"
 		>Github repo - see more details</a
 	>
 </p>
+
+<br />
 
 <p>
 	<img width="50%" src="./rBooking.png" />
@@ -127,13 +144,16 @@
 
 <br />
 
-<h3 align="left">ADWOKAT MATUSZEWSKI (Frontend)</h3>
-<p>
-	<a href="https://www.adwokatmatuszewski.pl/" target="_blank"
-		>Live demo - see it in action</a
-	>
-</p>
+<!-- --------------------- SECTION BREAK --------------------- -->
 
+## <a> 🖥️&nbsp;&nbsp; Adwokat Matuszewski (Frontend)</a>
+
+<br />
+
+<p>
+	<img
+		src="https://skills.syvixor.com/api/icons?i=nextjs,react,ts,reacthookform,zod,tailwind,shadcnui,motion,git,vercel" />
+</p>
 <p>
 	An interactive website featuring a fully functional contact form, allowing
 	users to easily submit inquiries or messages directly to the lawyer. This
@@ -141,31 +161,38 @@
 	potential clients to get in touch with the lawyer for legal assistance or
 	consultation.
 </p>
-<h4>Used technologies</h4>
+
 <p>
-	<img
-		alt="Next.js"
-		src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-	<img
-		alt="React"
-		src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-	<img
-		alt="Tailwind"
-		src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-	<img
-		alt="TypeScript"
-		src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+	<a href="https://www.adwokatmatuszewski.pl" target="_blank"
+		>Live demo - see it in action</a
+	>
 </p>
 
-<h4>Core features</h4>
-<ul>
-	<li>
-		An interactive website featuring a functional contact form, allowing users
-		to easily submit inquiries or messages.
-	</li>
-</ul>
 <br />
-<h3 align="left">MOVIE APP (Frontend)</h3>
+<p>
+	<img width="50%" src="./mat-bg.png" />
+</p>
+
+<br />
+
+<!-- --------------------- SECTION BREAK --------------------- -->
+
+## <a> 🖥️&nbsp;&nbsp; Movie app (Frontend)</a>
+
+<br />
+
+<p>
+	<img
+		src="https://skills.syvixor.com/api/icons?i=react,appwrite,tailwind,git,vercel" />
+</p>
+
+<p>
+	A React application styled with Tailwind and powered by Appwrite, featuring a
+	dynamic Trending Movies List that showcases the most popular titles based on
+	user searches. The search functionality allows users to quickly and accurately
+	find movies directly from the database, ensuring an up-to-date and engaging
+	browsing experience.
+</p>
 <p>
 	<a href="https://movie-app-robert-rapkowski.vercel.app" target="_blank"
 		>Live demo - see it in action</a
@@ -176,50 +203,11 @@
 		>Github repo - see more details</a
 	>
 </p>
+
+<br />
+
 <p>
-	The application includes a Trending Movies List that displays the most popular
-	movies based on the number of user searches. Additionally, it features a
-	robust search functionality, allowing users to quickly and accurately fetch
-	movies directly from the database based on their queries.
-</p>
-<h4>Used technologies</h4>
-<p>
-	<img
-		alt="React"
-		src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-	<img
-		alt="Tailwind"
-		src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-	<img
-		alt="Appwrite"
-		src="https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white" />
+	<img width="50%" src="./movie-app.png" />
 </p>
 
-<h4>Core features</h4>
-<ul>
-	<li>
-		Trending Movies List: The application displays a list of trending movies
-		based on the number of searches for each movie, keeping users updated with
-		the latest and most popular titles.
-	</li>
-	<li>
-		Search and Fetch Movies: Users can search for movies and retrieve them
-		directly from the database, ensuring fast and accurate results tailored to
-		their queries.
-	</li>
-</ul>
-<h3 align="left">Connect with me</h3>
-<p>
-	<a
-		href="https://www.linkedin.com/in/robert-rapkowski/?locale=en_US"
-		target="_blank"
-		><img
-			alt="LinkedIn"
-			src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-	/></a>
-	<a href="https://github.com/Rapkowsky" target="_blank"
-		><img
-			alt="Github"
-			src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
-	/></a>
-</p>
+<br />
