@@ -1,18 +1,36 @@
-  <p align=center>
-    <img width = "100%" alt="Jio Network blocking the view? Network switch reveals the magic!" src = "./git-bg.jpeg">
-  <p>
-
-<h3 align="center"><img src = "https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width = 26px align="top"/> Hi there</h3>
-
-<p align="center">I am Front-end developer from Warsaw, Poland 🇵🇱 <br/>
-I am interested in fullstack development to fully understand how applications work and to design better solutions.
+<p align="center">
+    <img
+        width="100%"
+        alt="Jio Network blocking the view? Network switch reveals the magic!"
+        src="./git-bg.jpeg" />
 </p>
 
-<h3 align="left">Tech-Stack & Skills</h3>
-<img src="https://skills.syvixor.com/api/icons?i=nextjs,react,redux,tanstack,reacthookform,reactrouter,zod,html,js,ts,tailwind,css3,sass,gsap,motion,threejs,restapi,postman,git,github,shadcnui,node,mongodb,prisma,appwrite,cypress,npm,seo,rwd,figma,photoshop,jira"/>
+<p></p>
+
+<h3 align="center">
+    <img
+        src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"
+        width="26px"
+        align="top" />
+    Hi there
+</h3>
+
+<p align="center">
+    I am a Front-end developer from Warsaw, Poland 🇵🇱 with over 3 years of
+    commercial experience.<br />
+    I am interested in fullstack development to fully understand how
+    applications work and to design better solutions.
+</p>
+
 <br />
 
-<h3 align="left">Portfolio Website</h3>
+<h3 align="left">TECH-STACK & SKILLS</h3>
+<img
+    src="https://skills.syvixor.com/api/icons?i=nextjs,react,redux,tanstack,reacthookform,reactrouter,zod,html,js,ts,tailwind,css3,sass,gsap,motion,threejs,restapi,postman,git,github,shadcnui,node,mongodb,prisma,appwrite,cypress,npm,seo,figma,photoshop,jira" />
+
+<br />
+
+<h3 align="left">PORTFOLIO WEBSITE</h3>
 
 <p>
     <a href="https://robert-rapkowski-portfolio.vercel.app/" target="_blank"
@@ -20,78 +38,62 @@ I am interested in fullstack development to fully understand how applications wo
     >
 </p>
 <p>
-    <a href="https://github.com/Rapkowsky" target="_blank">Github repo</a>
+    <a
+        href="https://github.com/Rapkowsky/robert-rapkowski-portfolio"
+        target="_blank"
+        >Github repo - see more details</a
+    >
 </p>
 <br />
-<h3 align="left">My Projects</h3>
 
-<h3 align="left">ZOOFY (Fullstack)</h3>
-<p>
-    <a href="https://rr-zoofy.vercel.app" target="_blank">Live demo</a>
-</p>
-<p>
-    <a href="https://github.com/Rapkowsky/zoofy" target="_blank">Github repo</a>
-</p>
-<p>
-    Zoofy is a full-stack web application designed to perform CRUD (Create,
-    Read, Update, Delete) operations. Zoofy delivers a seamless and efficient
-    user experience for managing data. Additionally, the application includes
-    authentication functionality powered by NextAuth, enabling secure user login
-    and session management.
-</p>
-<h4>Used technologies</h4>
-<p>
-    <img
-        alt="Next.js"
-        src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-    <img
-        alt="React"
-        src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    <img
-        alt="Tailwind"
-        src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    <img
-        alt="TypeScript"
-        src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img
-        alt="Prisma"
-        src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-    <img
-        alt="React Hook Form"
-        src="https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white" />
-    <img
-        alt="Zod"
-        src="https://img.shields.io/badge/-Zod-5A67D8?style=flat-square&logoColor=white" />
-    <img
-        alt="Shadcn"
-        src="https://img.shields.io/badge/-Shadcn-000000?style=flat-square&logo=shadcn&logoColor=white" />
-</p>
+<!-- --------------------- SECTION BREAK --------------------- -->
 
-<h4>Core features</h4>
-<ul>
-    <li>User Registration: Create new user accounts.</li>
-    <li>Authentication: Log in and log out securely using NextAuth.</li>
-    <li>Payment System: Integrated payment functionality.</li>
-    <li>
-        Pet Management:
-        <ul>
-            <li>Add a new pet to the database.</li>
-            <li>Edit existing pet details.</li>
-            <li>View the list of created pets.</li>
-            <li>Delete pets from the database.</li>
-        </ul>
-    </li>
-</ul>
+<h3 align="left">MY PROJECTS</h3>
 <br />
+
+<!-- --------------------- SECTION BREAK --------------------- -->
+
+<h3 align="left">Zoofy (Fullstack)</h3>
+<p>
+    <a href="https://rr-zoofy.vercel.app" target="_blank"
+        >Live demo - see it in action</a
+    >
+</p>
+<p>
+    <a href="https://github.com/Rapkowsky/zoofy" target="_blank"
+        >Github repo - see more details</a
+    >
+</p>
+
+<p>
+    <img width="50%" src="./zoofy.png" />
+</p>
+
+<p>
+    <img
+        src="https://skills.syvixor.com/api/icons?i=nextjs,react,ts,tailwind,shadcnui,motion,node,prisma" />
+</p>
+
+<p>
+    Zoofy is a web app for managing pets. It features secure authentication with
+    NextAuth and user authorization via JWT tokens. Users can register, log in,
+    and manage their pets—add, edit, view, or delete them. The app also includes
+    integrated payment functionality.
+</p>
+
+<br />
+
+<!-- --------------------- SECTION BREAK --------------------- -->
+
 <h3 align="left">R-BOOKING (Frontend)</h3>
 <p>
     <a href="https://r-booking-project.vercel.app/" target="_blank"
-        >Live demo</a
+        >Live demo - see it in action</a
     >
 </p>
 <p>
     <a href="https://github.com/Rapkowsky/project-react" target="_blank"
-        >Github repo</a
+        >Github repo - see more details</a
     >
 </p>
 <p>
@@ -148,7 +150,9 @@ I am interested in fullstack development to fully understand how applications wo
 
 <h3 align="left">ADWOKAT MATUSZEWSKI (Frontend)</h3>
 <p>
-    <a href="https://www.adwokatmatuszewski.pl/" target="_blank">Live demo</a>
+    <a href="https://www.adwokatmatuszewski.pl/" target="_blank"
+        >Live demo - see it in action</a
+    >
 </p>
 
 <p>
@@ -185,12 +189,12 @@ I am interested in fullstack development to fully understand how applications wo
 <h3 align="left">MOVIE APP (Frontend)</h3>
 <p>
     <a href="https://movie-app-robert-rapkowski.vercel.app" target="_blank"
-        >Live demo</a
+        >Live demo - see it in action</a
     >
 </p>
 <p>
     <a href="https://github.com/Rapkowsky/movie-app" target="_blank"
-        >Github repo</a
+        >Github repo - see more details</a
     >
 </p>
 <p>
