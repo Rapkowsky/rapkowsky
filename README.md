@@ -16,13 +16,13 @@
 </h3>
 
 <p>
-	• I am a Front-end developer from Warsaw, Poland 🇵🇱<br />
-	• Over 3 years of commercial experience in front-end development<br />
+	• I am a Frontend Developer from Warsaw, Poland 🇵🇱<br />
+	• Over 3 years of commercial experience in Frontend Development<br />
 	• Over 10 years of overall commercial experience in the international IT
 	industry<br />
 	• Passionate about creating modern, fast, and scalable applications and
 	websites.<br />
-	• I'm also interested in fullstack development in order to fully understand
+	• I'm also interested in Fullstack Development in order to fully understand
 	how applications work and to design better solutions. <br />
 	<br />
 	Check out my projects below!<br />
