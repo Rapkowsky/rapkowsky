@@ -1,7 +1,7 @@
 <p align="center">
 	<img
 		width="100%"
-		alt="Jio Network blocking the view? Network switch reveals the magic!"
+		alt="Robert Rapkowski - GitHub background image"
 		src="./git-bg.jpeg" />
 </p>
 
