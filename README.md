@@ -132,7 +132,7 @@
 <p>
 	Zoofy is a full-stack web application for managing pets. It features secure
 	authentication with NextAuth and user authorization via JWT tokens. Users can
-	register, log in, and manage their pets—add, edit, view, or delete them. The
+	register, log in, and manage their pets - add, edit, view, or delete them. The
 	app also includes integrated payment functionality using Stripe.
 </p>
 
