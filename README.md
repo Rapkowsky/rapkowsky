@@ -18,12 +18,12 @@
 <p>
 	• I am a Frontend Developer from Warsaw, Poland 🇵🇱<br />
 	• Over 3 years of commercial experience in Frontend Development.<br />
-	• Over 10 years of overall commercial experience in the international IT
-	industry.<br />
-	• Passionate about creating modern, fast, and scalable applications and
-	websites.<br />
-	• I'm also interested in Fullstack Development in order to fully understand
-	how applications work and to design better solutions. <br />
+	• Over 10 years of overall commercial experience in Agile environments within
+	international teams, including both traditional and virtual teams<br />
+	• Developing maintainable and scalable web applications and websites,
+	optimizing performance with server-side rendering (SSR).<br />
+	• Continuously learning Fullstack development to expand architectural skills.
+	<br />
 	<br />
 	Check out my projects below!<br />
 </p>
@@ -47,7 +47,7 @@
 
 <h3 align="left">TECH-STACK & SKILLS</h3>
 <img
-	src="https://skills.syvixor.com/api/icons?i=nextjs,react,redux,tanstack,reacthookform,reactrouter,zod,html,js,ts,tailwind,css3,sass,gsap,motion,threejs,restapi,postman,git,github,shadcnui,node,mongodb,prisma,appwrite,npm,vercel,cypress,figma,photoshop,jira" />
+	src="https://skills.syvixor.com/api/icons?i=nextjs,react,redux,tanstack,reacthookform,reactrouter,zod,html,js,ts,tailwind,css3,sass,gsap,motion,restapi,postman,cypress,shadcnui,node,mongodb,prisma,appwrite,npm,git,github,vercel,figma,photoshop,jira" />
 
 <br />
 
@@ -80,22 +80,22 @@
 
 <p>
 	<img
-		src="https://skills.syvixor.com/api/icons?i=nextjs,react,ts,reacthookform,zod,openai,mongodb,tailwind,shadcnui,motion,node,prisma,git,vercel" />
+		src="https://skills.syvixor.com/api/icons?i=nextjs,react,ts,reacthookform,zod,openai,mongodb,tailwind,shadcnui,motion,node,git,vercel" />
 </p>
 
 <p>
 	DevHub is my biggest project to date - it's a full-stack application inspired
 	by StackOverflow but enhanced with AI capabilities, creating a comprehensive
 	community-driven platform where developers can ask questions, share knowledge,
-	and accelerate their journey. This application leverages Next.js
-	advanced rendering strategies (SSG, ISR, SSR, PPR, Server Functions, Caching,
-	and Revalidation) alongside MongoDB for data storage and NextAuth for
-	versatile authentication options including Email/Password, GitHub, and Google.
-	With sleek styling provided by TailwindCSS and ShadCN UI, DevHub offers a
-	complete ecosystem where users can post questions, provide answers, utilize
-	AI-powered responses, vote on contributions, organize content with tags, earn
-	badges through gamification elements, discover relevant job opportunities, and
-	explore recommended topics.
+	and accelerate their journey. This application leverages Next.js advanced
+	rendering strategies (SSG, SSR, Server Functions, Caching, and Revalidation)
+	alongside MongoDB for data storage and NextAuth for versatile authentication
+	options including Email/Password, GitHub, and Google. With sleek styling
+	provided by TailwindCSS and ShadCN UI, DevHub offers a complete ecosystem
+	where users can post questions, provide answers, utilize AI-powered responses,
+	vote on contributions, organize content with tags, earn badges through
+	gamification elements, discover relevant job opportunities, and explore
+	recommended topics.
 </p>
 
 <p>
@@ -131,7 +131,7 @@
 
 <p>
 	Zoofy is a full-stack web application for managing pets. It features secure
-	authentication with NextAuth and user authorization via JWT tokens. Users can
+	authentication with NextAuth and user authorization via JWT. Users can
 	register, log in, and manage their pets - add, edit, view, or delete them. The
 	app also includes integrated payment functionality using Stripe.
 </p>
