@@ -164,7 +164,7 @@
 
 <p>
 	<img
-		src="https://skills.syvixor.com/api/icons?i=react,ts,reacthookform,zod,tailwind,shadcnui,git,vercel" />
+		src="https://skills.syvixor.com/api/icons?i=react,reacthookform,zod,tailwind,shadcnui,git,vercel" />
 </p>
 
 <p>
