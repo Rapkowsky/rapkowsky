@@ -47,7 +47,7 @@
 
 <h3 align="left">TECH-STACK & SKILLS</h3>
 <img
-	src="https://skills.syvixor.com/api/icons?i=nextjs,react,redux,tanstack,reacthookform,reactrouter,zod,html,js,ts,tailwind,css3,sass,gsap,motion,restapi,postman,cypress,shadcnui,node,mongodb,prisma,appwrite,npm,git,github,vercel,figma,photoshop,jira" />
+	src="https://skills.syvixor.com/api/icons?i=nextjs,react,redux,tanstack,reacthookform,reactrouter,zod,html,js,ts,tailwind,css3,sass,gsap,motion,restapi,postman,cypress,shadcnui,node,mongodb,prisma,npm,git,github,vercel,figma,photoshop,jira" />
 
 <br />
 
